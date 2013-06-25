@@ -1,5 +1,3 @@
-Repo contains Vbox not the code.
-
 Map the folder containing the code using Vbox to the name "/var/www/website" it will be mounted automaticly.
 
 
@@ -19,6 +17,10 @@ Code:
 Media:
 
 /home/willowandhall.co.uk/backup/ <media archive>
+
+Vbox image:
+
+/home/willowandhall.co.uk/backup/willowandhall.ova
 
 
 database already attached to the vbox
